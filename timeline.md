@@ -1,5 +1,3 @@
-
-=======
 # Evolution of Social Media: TikTok to Facebook
 
 **Introduction**
@@ -8,7 +6,6 @@
 *How does TikTok make money?*
 *Revenue Comparisons*
 
-=======
 
 The development of social media, which started with the photo-sharing principles of Instagram and further advanced to the short-form video platforms of TikTok, can be considered one of the most significant changes in contemporary digital enterprise. What started out as the picture-filtering app has evolved into an international business space that influences the entertainment, marketing, and cultural trends. The present case study discusses the evolution of Instagram and TikTok with the help of the main historical milestones and evaluates the change through the prism of the business perspective. Ethical consideration in the future developmental lessons are also discussed.
 
@@ -89,7 +86,7 @@ The algorithm based design by TikTok provided great business benefits:
 The development of Istagram and TikTok is a goos illustration of the business perspective of the module: it is the technological aspects that transform into strategic assets generating commercial value. Instagram used the cloud-based platform of Meta, whereas TikTok proved the strength of AI-based recommendations. Their development depicts the transformation of compuing systems into enterprise ecosystems.
 
 
-=======
+
 
 **Resourses:**
 
