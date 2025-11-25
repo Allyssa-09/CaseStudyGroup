@@ -20,4 +20,4 @@
 # Algorithm Bias 
 **Content Recommendation Issues**
 - Algorithms may promote extreme content 
-- Racial and gender biases in AI systems
+- Racial and gender biases in AI syst
