@@ -83,9 +83,28 @@ The algorithm based design by TikTok provided great business benefits:
 
 **Connection to Module Concept**
 
-The development of Istagram and TikTok is a goos illustration of the business perspective of the module: it is the technological aspects that transform into strategic assets generating commercial value. Instagram used the cloud-based platform of Meta, whereas TikTok proved the strength of AI-based recommendations. Their development depicts the transformation of compuing systems into enterprise ecosystems.
+The development of Istagram and TikTok is a good illustration of the business perspective of the module: it is the technological aspects that transform into strategic assets generating commercial value. Instagram used the cloud-based platform of Meta, whereas TikTok proved the strength of AI-based recommendations. Their development depicts the transformation of compuing systems into enterprise ecosystems.
 
+**Future Development Lessons**
+1. Innovation Should be Balanced in Social Impact.
 
+The next-generation platforms must be consider both psychological and cultural impacts, not only the engagement or revenue rates (Muhammad Dimas Prasetya et al., 2025).
+
+2. Diligent Reporting of Data Is Critical
+
+A long-term trust relies on better parameters of data collection and storage (Castillo-Esparcia et al., 2023).
+
+3. Wellbeing and Safety, it should become core measurement.
+
+The success of businesses should not be based on the screen time alone but also on the trust given by the user and digital health (Ratna Rintaningrum et al., 2025).
+
+4. Producers and society must have stability.
+
+The real livelihoods are subject to changes based on algorithms; hence, platforms need to convey policy alterations in a clear and quitable manner (Hu,2024).
+
+**Conclusion**
+
+The case of Instagram as to TikTok shows how quickly social media could turn into a significant commercial and cultural power. The growth of Instagram into advertising and commerce, along with the TikTok algorithmic innovation, changed the digital behaviour of the world. These platforms demonstrate how economic worth is realised through user data, interaction, and scalable digital infrastructure through the business perspective. Ownership of privacy, wellbeing and fairness are some of the most important elements of ethics that shoul be considered as social media keeps affecting the society. This development underscores the necessity of platforms in the future that combine responsible design and new business approach to secure sustainable and fair digital space.
 
 
 **Resourses:**
@@ -106,7 +125,6 @@ Muhammad Dimas Prasetya, Puteri Ananda, Fawzeea, K. and Fadli Fadli (2025). The 
 Ratna Rintaningrum, Kartika Nuswantara, Budiawan Budiawan, Erni Hastuti and Rahmi Setiawati (2025). The Influence of Social Media on the Development of Slang Among Teenagers: A Case Study on TikTok and Instagram Platforms. Journal International of Lingua and Technology, [online] 4(1), pp.1–11. doi:https://doi.org/10.55849/jiltech.v4i1.815.
 
 Siagian, N.R. and Yuliana, N. (2023). THE ROLE OF SOCIAL MEDIA IN GENERATION Z COMMUNICATION. Interdisciplinary Journal of Advanced Research and Innovation, [online] 1(3), pp.109–118. doi:https://doi.org/10.58860/ijari.v1i3.27.
-
 
 
 -This written by Allyssa
