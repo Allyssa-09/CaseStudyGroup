@@ -13,12 +13,12 @@ Instagram pushed people to aim for perfect posts. TikTok made things more intens
 
 Leaked research shows that Instagram makes body image worse for 1 in 3 teen girls (The Verge,2021). The Centre for Countering Digital Hate also found that TikTok's algorithm can start showing harmful content to teens within minutes, including eating disorder videos that have billions of views (CCDH,2022). Studies also show that social media addiction can look like substance addiction (Psychology Today, 2022).
 
-#### **Content Safety Problems**
+#### **Content Safety **
 Instagram struggled with manually checking posts, but TikTok's algorithm caused even bigger moderation problems. The platform automatically promotes content that gets the most engagement, not necessarily what is accurate or safe, which can quickly spread harmful material (The Guardian, 2023).
 
 TikTok's algorithm has been known to push risky challenges and harmful content to teens (The Guardian, 2023). During COVID-19, the app also became a centre for medical misinformation, with a lot of popular videos spreading false claims (The Journal of Medical Internet Research, 2021). Basically, the way the algorithm works can quickly take users from normal content to more extreme or dangerous stuff (Centre for Countering Digital Hate, 2022).
 
-#### **Recommended Solutions**
+#### **Solutions**
 **For Data Privacy**
 TikTok should have outside audits of its recommendation algorithm, with the results shared publicly, like the rules in the EU Digital Services Act (European Parliament, 2022).
 
